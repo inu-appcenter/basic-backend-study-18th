@@ -1,12 +1,6 @@
 
-/*
-1. Hello World 프린트
--파일명과 클래스의 이름은 같아야한다
--C와 똑같이 세미콬ㄹ론으로 문장을 구분하기에 문장이 끝나면 세미콜론 필수
-
- */
-
-public class week2_seohyun {
+//1. Hello World
+public class HelloWorld {
 
 
     public static void main(String[] args){

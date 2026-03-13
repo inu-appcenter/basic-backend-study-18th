@@ -1,5 +1,3 @@
-package Variable;
-
 //1강
 public class HelloJava1 {
     public static void main(String[] args){

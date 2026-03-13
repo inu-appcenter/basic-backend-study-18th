@@ -11,5 +11,16 @@ public class OperationEx1 {
         System.out.println("sum = "+sum +", average ="+ average);
 
 
+
+        //ex2
+        double val1 =1.5;
+        double val2 =2.5;
+        double val3 =3.5;
+
+        double sum_double = val1+val2+val3;
+        double arg_double = sum_double/3;
+        System.out.println("sum double = "+sum_double +", average double="+ arg_double);
+
+
     }
 }

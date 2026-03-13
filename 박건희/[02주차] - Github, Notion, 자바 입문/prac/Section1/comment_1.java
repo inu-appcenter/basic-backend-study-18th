@@ -2,7 +2,7 @@ package Section1;
 
 public class comment_1 {
 
-    public static void main(String[] args) {
+    static void main(String[] ignoredArgs) {
         System.out.println("hello java1");
         //System.out.println("hello java2");
         // '//' 한줄 주석

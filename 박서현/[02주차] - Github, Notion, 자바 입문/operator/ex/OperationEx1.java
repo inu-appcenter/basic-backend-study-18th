@@ -22,5 +22,15 @@ public class OperationEx1 {
         System.out.println("sum double = "+sum_double +", average double="+ arg_double);
 
 
+        //ex3
+        int score =95;
+        boolean result = score>=80 && score <=100;
+        System.out.println("if score = 95: " +result);
+
+        score-=20;
+        result = score>=80 && score <=100;
+        System.out.println("if score = 75: " +result);
+
+
     }
 }

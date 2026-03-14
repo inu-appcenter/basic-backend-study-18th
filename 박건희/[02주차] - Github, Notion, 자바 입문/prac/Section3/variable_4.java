@@ -32,5 +32,17 @@ public class variable_4 {
         클래스는 첫 글자 대문자 or 낙타 표기법을 쓴 변수를 제외한 나머지
         변수의 이름은 용도에 맞게 설정하여 선언!
         */
+
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+        System.out.println(d);
+        System.out.println(e);
+        System.out.println(A);
+        System.out.println(B);
+        System.out.println(C);
+        System.out.println(D);
+        System.out.println(E);
+        System.out.println(F);
     }
 }

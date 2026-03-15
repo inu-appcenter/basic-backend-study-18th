@@ -8,13 +8,14 @@ public class EvenOddEx {
         String eo;
         Scanner sc = new Scanner(System.in);
 
-        while(true){
+        while(true) {
             System.out.print("x: ");
-            x=sc.nextInt();
+            x = sc.nextInt();
 
-            if (x==-1) break;
-            eo = (x%2==1) ? "홀수" :"짝수";
-            System.out.println("x= "+x+ ", "+eo);
+            if (x == -1) break;
+            eo = (x % 2 == 1) ? "홀수" : "짝수";
+            System.out.println("x= " + x + ", " + eo);
+        }
 
 
     }

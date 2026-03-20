@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46f04241-08a2-40ca-84aa-7e647bae1f66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/CommentJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/HelloJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/HelloJava2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/array/Array1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/array/ArrayRef1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/array/ArrayRef2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/CondOp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/CondOp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/CondOpEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/DistanceEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/EvenOddEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/ExchangeRateEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/GradSwitchEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/MovieRateEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/ScoreEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Break1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Break2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Break3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Continue1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/DoWhile1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/DoWhile2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/For1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/For2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Nested1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While1_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While2_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While2_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While2_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/ForEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/ForEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/ForEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/NestedEX1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/NestedEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/WhileEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/WhileEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/WhileEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Assign1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Comp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Comp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Logical1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Logical2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/OperatorAdd1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/OperatorAdd2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/ex/OperationEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/ex/OperatorEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/ex/OperatorEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scopd3_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scope1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scope2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scope3_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx1Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scopd3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scope1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scope2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scope3_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../임동진.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../임동진.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;noveldj33&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/inu-appcenter/basic-backend-study-18th.git&quot;,
+    &quot;accountId&quot;: &quot;a34e2766-6a4e-4018-b0f5-db524e0f27fc&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3Az5gNPq0khOZM6mhJImgD22YJU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array1.executor": "Run",
+    "Application.Array1Ref2.executor": "Run",
+    "Application.Array1Ref3.executor": "Run",
+    "Application.Array1Ref4.executor": "Run",
+    "Application.ArrayDi0.executor": "Run",
+    "Application.ArrayDi1.executor": "Run",
+    "Application.ArrayDi2.executor": "Run",
+    "Application.ArrayDi3.executor": "Run",
+    "Application.ArrayDi4.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
+    "Application.ArrayEx8.executor": "Run",
+    "Application.ArrayRef1.executor": "Run",
+    "Application.ChangeVarEx.executor": "Run",
+    "Application.EnhancedFor1.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodCasting1.executor": "Run",
+    "Application.MethodCasting2.executor": "Run",
+    "Application.MethodEx1.executor": "Run",
+    "Application.MethodEx2.executor": "Run",
+    "Application.MethodEx2Ref.executor": "Run",
+    "Application.MethodEx3.executor": "Run",
+    "Application.MethodEx3Ref.executor": "Run",
+    "Application.MethodEx4.executor": "Run",
+    "Application.MethodRef.executor": "Run",
+    "Application.MethodReturn2.executor": "Run",
+    "Application.MethodValue0.executor": "Run",
+    "Application.MethodValue1.executor": "Run",
+    "Application.MethodValue2.executor": "Run",
+    "Application.MethodValue3.executor": "Run",
+    "Application.Overloading2.executor": "Run",
+    "Application.Overloading3.executor": "Run",
+    "Application.ProductAdminEx.executor": "Run",
+    "Application.Scanner1.executor": "Run",
+    "Application.Scanner2.executor": "Run",
+    "Application.Scanner3.executor": "Run",
+    "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx2.executor": "Run",
+    "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
+    "Application.ScannerWhile1.executor": "Run",
+    "Application.ScannerWhile2.executor": "Run",
+    "Application.ScannerWhile3.executor": "Run",
+    "Application.ScannerWhileEx1.executor": "Run",
+    "Application.ScannerWhileEx2.executor": "Run",
+    "Application.ScannerWhileEx3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "week2/임동진",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mac/Desktop/베이직 백엔드/basic-backend-study-18th-week2-/untitled/임동진/[03주차] - 자바 입문",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MethodCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodCasting1" />
+      <module name="[03주차] - 자바 입문" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodCasting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodCasting2" />
+      <module name="[03주차] - 자바 입문" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx1" />
+      <module name="[03주차] - 자바 입문" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2" />
+      <module name="[03주차] - 자바 입문" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodEx3Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3Ref" />
+      <module name="[03주차] - 자바 입문" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodEx3Ref" />
+        <item itemvalue="Application.MethodEx2" />
+        <item itemvalue="Application.MethodEx1" />
+        <item itemvalue="Application.MethodCasting2" />
+        <item itemvalue="Application.MethodCasting1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f04241-08a2-40ca-84aa-7e647bae1f66" name="Changes" comment="" />
+      <created>1773582669063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773582669063</updated>
+      <workItem from="1773582670646" duration="37162000" />
+      <workItem from="1773808655898" duration="14106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

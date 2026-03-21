@@ -2,7 +2,6 @@ package Section5;
 // else if
 public class if_2 {
     static void main() {
-        /*
         int age = 8;
 
         if (age <= 7) {
@@ -41,6 +40,5 @@ public class if_2 {
             System.out.println("성인");
         }
         //모든 조건문을 확인하지 X 한 조건문이 참이면 조건 검사가 끝남.
-        */
     }
 }

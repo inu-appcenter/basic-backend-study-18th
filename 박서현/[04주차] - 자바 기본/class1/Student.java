@@ -1,4 +1,4 @@
-package calss1;
+package class1;
 
 public class Student {
     String name;

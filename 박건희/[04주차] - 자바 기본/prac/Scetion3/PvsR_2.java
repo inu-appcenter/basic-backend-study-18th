@@ -1,0 +1,36 @@
+package Scetion3;
+
+public class PvsR_2 {
+
+    static void main() {
+
+        Data dataA = new Data();
+        dataA.value = 10;
+        Data dataB = dataA;
+
+        System.out.println("dataA 참조값=" + dataA);
+        System.out.println("dataB 참조값=" + dataB);
+        System.out.println("dataA.value = " + dataA.value);
+        System.out.println("dataB.value = " + dataB.value);
+
+        dataA.value = 20;
+        System.out.println("변경 dataA.value = 20");
+        System.out.println("dataA.value = " + dataA.value);
+        System.out.println("dataB.value = " + dataB.value);
+
+        dataB.value = 30;
+        System.out.println("변경 dataB.value = 30");
+        System.out.println("dataA.value = " + dataA.value);
+        System.out.println("dataB.value = " + dataB.value);
+
+        changeReference(dataA); // 기본형과 달리 값이 변경
+        System.out.println("dataA.value = " + dataA.value);
+        System.out.println("dataB.value = " + dataB.value);
+
+    }
+
+    static void changeReference(Data dataX) {
+        dataX.value = 20;
+    }
+
+}

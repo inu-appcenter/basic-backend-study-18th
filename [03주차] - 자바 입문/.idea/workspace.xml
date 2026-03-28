@@ -5,94 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46f04241-08a2-40ca-84aa-7e647bae1f66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/CommentJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/HelloJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/HelloJava2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/array/Array1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/array/ArrayRef1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/array/ArrayRef2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/casting/Casting4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/CondOp1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/CondOp2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/If6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/Switch4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/CondOpEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/DistanceEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/EvenOddEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/ExchangeRateEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/GradSwitchEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/MovieRateEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/cond/ex/ScoreEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Break1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Break2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Break3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Continue1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/DoWhile1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/DoWhile2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/For1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/For2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/Nested1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While1_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While1_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While2_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While2_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/While2_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/ForEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/ForEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/ForEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/NestedEX1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/NestedEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/WhileEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/WhileEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/loop/ex/WhileEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Assign1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Comp1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Comp2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Logical1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Logical2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/Operator4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/OperatorAdd1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/OperatorAdd2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/ex/OperationEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/ex/OperatorEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/operator/ex/OperatorEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scopd3_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scope1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scope2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/scope/Scope3_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/Var8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx1Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../[02주차] - Github, Notion, 자바 입문/java-start/java-start/src/variable/ex/VarEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scopd3_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scope1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scope2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/임동진/scope/Scope3_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../임동진.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../임동진.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/array/ArrayDi2.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/array/ArrayDi2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +42,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3Az5gNPq0khOZM6mhJImgD22YJU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -193,7 +109,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "week2/임동진",
+    "git-widget-placeholder": "week3/임동진",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/mac/Desktop/베이직 백엔드/basic-backend-study-18th-week2-/untitled/임동진/[03주차] - 자바 입문",
@@ -207,7 +123,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MethodCasting1">
     <configuration name="MethodCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="method.MethodCasting1" />
       <module name="[03주차] - 자바 입문" />

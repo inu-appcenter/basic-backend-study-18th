@@ -12,3 +12,4 @@ public class ClassB extends ClassA{
         System.out.println("ClassB 생성자 a=" + a + " b=" + b);
     }
 }
+

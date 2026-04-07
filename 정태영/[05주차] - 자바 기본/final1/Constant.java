@@ -1,6 +1,6 @@
 package final1;
 
-// 상수
+// 상수 
 public class Constant {
     // 수학 상수
     public static final double PI = 3.14;

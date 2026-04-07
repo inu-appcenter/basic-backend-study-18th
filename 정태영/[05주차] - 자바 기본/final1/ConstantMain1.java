@@ -3,7 +3,6 @@ package final1;
 public class ConstantMain1 {
     public static void main(String[] args) {
 
-
     }
     private static void process(int currentUserCount){
         System.out.println("참여자 수 : " + currentUserCount);

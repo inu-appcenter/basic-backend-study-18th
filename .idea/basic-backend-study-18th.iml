@@ -3,6 +3,21 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[03주차] - 자바 입문/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[04주차] - 자바 기본" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[05주차] - 자바 기본" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[06주차] - 자바 기본" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[09주차] - DB" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[10주차] - HTTP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[11주차] - 스프링" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[12주차] - 스프링" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[13주차] - 게시판 CR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[방학1주차] - 스프링부트 개발자되기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[방학2주차] - 스프링부트 개발자되기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[방학3주차] - 스프링부트 개발자되기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[방학4주차] - 스프링부트 개발자되기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/김도영/[방학5주차] - 기능 명세, ERD, API 명세" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

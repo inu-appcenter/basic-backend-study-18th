@@ -1,4 +1,4 @@
-## 세션 6
+## 세션 5
 ```sql
 SELECT * FROM customers;
 SELECT * FROM products;

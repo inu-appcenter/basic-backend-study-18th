@@ -151,3 +151,23 @@ ORDER BY description DESC;
 SELECT product_id, name, description, description IS NULL
 FROM products
 ORDER BY description IS NULL DESC;
+
+--- 산술 연산
+SELECT name, price, stock_quantity, price * stock_quantity FROM products;
+SELECT
+ name,
+ price,
+ stock_quantity,
+ price * stock_quantity AS total_stock_value
+FROM
+ products;
+ SELECT name, price, price + 3000 AS expected_price FROM products;
+SELECT name, price, price - 1000 AS discounted_price FROM products;
+SELECT name, price, price / 10 AS monthly_payment FROM products;
+SELECT
+ CONCAT(name, ' (', email, ')') AS name_and_email
+FROM
+ customers;
+ SELECT name, COALESCE(description, '상품 설명 없음') AS description
+FROM products;
+ 

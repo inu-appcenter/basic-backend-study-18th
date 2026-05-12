@@ -1,9 +1,12 @@
 package hello.hello_spring.repository;
 
 import hello.hello_spring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
+// 스프링에서 repository로 인식함.
+// @Repository
 public class MemoryMemberRepository implements MemberRepository {
 
     private static Map<Long,Member> store = new HashMap<>();

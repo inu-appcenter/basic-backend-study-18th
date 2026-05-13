@@ -19,7 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/김도영/[방학4주차] - 스프링부트 개발자되기" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/김도영/[방학5주차] - 기능 명세, ERD, API 명세" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

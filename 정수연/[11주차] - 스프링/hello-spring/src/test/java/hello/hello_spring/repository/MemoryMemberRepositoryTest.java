@@ -12,7 +12,9 @@ import static org.assertj.core.api.Assertions.*;
 public class MemoryMemberRepositoryTest {
     MemoryMemberRepository repository = new MemoryMemberRepository();
 
-    //테스트 끝날 때마다 레포지토리 깔끔하게 지워줌
+    //이전 테스트가 실행되면서 저장한 데이터가 메모리에 그대로 남아
+    //다음 테스트에 영향을 주기 때문에 @AfterEach를 추가하여
+    // 테스트 끝날 때마다 레포지토리 깔끔하게 지워줌
     @AfterEach
     public void afterEach(){
         repository.clearStore();

@@ -3,18 +3,23 @@ package hello.hello_spring.service;
 import hello.hello_spring.domain.Member;
 import hello.hello_spring.repository.MemberRepository;
 import hello.hello_spring.repository.MemoryMemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.*;
 
+//@Service 향후 리포지토리를 변경 할 예정이므로, 자바 코드로 스프링 빈을 설정한다.
 public class MemberService {
 
     //private final MemberRepository memberRepository = new MemoryMemberRepository();
 
     private final MemberRepository memberRepository;
 
+    //@Autowired
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
     }
+
 
     /*회원 가입*/
     public Long join(Member member) {

@@ -46,4 +46,9 @@ public class SpringConfig {
         // return new JdbcMemberRepository(dataSource); //교체 -> DI!!
         //return new JpaMemberRepository(em);
     //}
+
+    /*@Bean
+    public TimeTraceAop timeTraceAop() {
+        return new TimeTraceAop();
+    }*/
 }

@@ -1,5 +1,6 @@
 package hello.hello_spring;
 
+import hello.hello_spring.app.TimeTraceApp;
 import hello.hello_spring.repository.*;
 import hello.hello_spring.services.MemberService;
 import jakarta.persistence.Entity;

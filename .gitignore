@@ -10,4 +10,8 @@ Thumbs.db
 out/
 *.class
 
-
+#Gradle & Maven Build
+.gradle/
+build/
+target/
+bin/

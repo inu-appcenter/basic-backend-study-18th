@@ -9,6 +9,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 //등록, 전체목록조회, 단건조회, 수정, 삭제
 
@@ -19,13 +20,24 @@ public class TodoService {
 
     //1. 새 todo 등록
     // JPA를 상속받아 만든 리포지토리는 데이터를 저장할때 save사용. 다른거 쓰면 안됨(create같은..)
-    public Long svae (TodoCreateRequest createDto){
-        return todoRepository.save(createDto.toEntity()).getId();
+    public TodoResponse save (TodoCreateRequest createDto){
+        Todo todo = todoRepository.save(createDto.toEntity());
+        return new TodoResponse(todo);
     }
 
     //2. 전체목록 조회
-    public List<Todo> findTodos() {
-        return todoRepository.findAll();
+    public List<TodoResponse> findTodos() {
+        //findAll은 JPA가 만들어준 메서드라 직접 수정 불가. DTO타입으로 우회해서 보내기 위해
+        //일단은 Todo 리스트로 받음
+        List<Todo> todos = todoRepository.findAll();
+
+        // todos.stream() :리스트를 일렬종대 흐름으로 만듦. 걍 줄세워서 벨트 위에 올리기
+        // map: 벨트 타고 지나가는 데이터를 TodoResponse(Todo entity)를 호출해 DTO객체로 변환
+        //collect: 벨트 다 지나갔으면 그것들 줍줍해서 다시 List로 만들어줌
+        return todos.stream()
+                .map(todo -> new TodoResponse(todo))
+                .collect(Collectors.toList());
+
     }
     //3. 단건조회
     //id로 단건 조회
@@ -43,14 +55,14 @@ public class TodoService {
     }
 
     //4. 수정
-    public Long update (Long id, TodoUpdateRequest updateDto) {
+    public TodoResponse update (Long id, TodoUpdateRequest updateDto) {
         Todo entity = todoRepository.findById(id)
                 .orElseThrow(() -> new IllegalArgumentException(id + "에 해당하는 할일목록이 없어요"));
 
         //트랜잭션 안에서 값 변경하면 자동으로 update 쿼리가 실행됨
         entity.update(updateDto.getTitle(), updateDto.getContent(), updateDto.getIsDone());
 
-        return id;
+        return new TodoResponse(entity);
     }
 
     //5. 삭제

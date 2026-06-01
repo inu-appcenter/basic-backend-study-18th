@@ -1,0 +1,14 @@
+package book.book_api.dto;
+
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@Getter
+@NoArgsConstructor
+public class BookUpdateRequest {
+
+    private String title;
+    private String author;
+    private int publishedYear;
+
+}
